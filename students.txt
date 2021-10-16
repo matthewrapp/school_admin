@@ -1,0 +1,2 @@
+Matt | Rapp | 3 | Rap-344 | , WDD 430, CSE 313 | 700
+Aaron | Gorman | 2 | Gor-256 | , CS 313, ENG 101, PSY 101, MAt 101 | 400
