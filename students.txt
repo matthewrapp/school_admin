@@ -1,2 +1,3 @@
-Matt | Rapp | 3 | Rap-344 | , WDD 430, CSE 313 | 700
-Aaron | Gorman | 2 | Gor-256 | , CS 313, ENG 101, PSY 101, MAt 101 | 400
+Matthew | Rapp | 4 | Rap-474 | , WDD 430, CSE 310 | 1200
+Brother | Macbeth | 1 | Mac-177 | , ENG 101, PSY 101, MAT 101 | 0
+Aaron | Gorman | 3 | Gor-356 | , RYR 660 | 300

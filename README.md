@@ -2,7 +2,7 @@
 
 To learn Java and to understand its object-oriented programming nature, I wrote a simple school administration program that allows an admin to enroll a select number of students.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KDUKNJO4z38)
 
 # Development Environment
 
